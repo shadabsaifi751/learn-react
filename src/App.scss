@@ -1,0 +1,17 @@
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+  padding: 10px;
+}
+
+// @mixin transform {
+//   color: red;
+// }
+
+
+// .text-red{
+//   @include transform()
+// }
